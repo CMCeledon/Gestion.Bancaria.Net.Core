@@ -1,16 +1,107 @@
-# Prueba NeComPlus (FrontEnd)
+# Desarrollador por:
 
-Esta es la parte de frontend de la prueba técnica de la entrevista.
+[![N|Solid](https://www.cmceledon.com/Recursos/assets/img/vegas-logo.png)](https://www.cmceledon.com/)
 
+----
+# Carlos Mario Celedón Rodelo
 
-# Setup
-Deberemos tener instalado el **NodeJS 6.9.0** para poder ejecutarlo.
+```sh
+- Desarrollador Senior de Software - www.cmceledon.com
+- Bogotá, Cundinamarca
+- carlos@cmceledon.com
+- 3004559711
+. 
+- Prueba técnica de desarrollo para: 
+- NECOMPLUS
+- http://necomplus.com/
+```
 
-# Running
-Para ejecutarlo solamente necesitaremos ir a la carpeta del proyecto y ejecutar el comando `npm i` o `npm install` (puede ser que dé algún error y haya que ejecutar también `npm audit fix`) y por último podremos ejecutar el proyecto mediante el comando `npm run serve`.
+---
 
-# Logros
-En este punto voy a describir lo que he podido hacer en esta prueba.
- - He creado un frontend con VueJS mediante Vuetify (que usa vue-cli).
- - Se gestiona la sesión mediante el token que se nos proporciona con JWT.
- - Se ha maquetado de manera muy básica gracias a los componentes de Vuetify.
+# DEMO Y CÓDIGO FUENTE - [Gestion.Bancaria.Front.AppVuejs]
+https://api.gestionbancaria.cmceledon.com/
+
+---
+# EJECUCIÓN 
+
+#### Vue CLI 3 🌎
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Version</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/vuetifyjs/vue-cli-plugin-vuetify">vue-cli-plugin-vuetify</a>
+      </td>
+      <td>
+        <a href="https://www.npmjs.com/package/vue-cli-plugin-vuetify">
+          <img src="https://img.shields.io/npm/v/vue-cli-plugin-vuetify.svg" alt="Version">
+        </a>
+      </td>
+      <td>
+       A vue-cli-3 plugin for installing and configuring Vuetify
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vuetifyjs/vuetify-loader">vuetify-loader</a>
+      </td>
+      <td>
+        <a href="https://www.npmjs.com/package/vuetify-loader">
+          <img src="https://img.shields.io/npm/v/vuetify-loader.svg" alt="Version">
+        </a>
+      </td>
+      <td>
+       A webpack plugin for treeshaking and progressive image support
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vuetifyjs/eslint-config-vuetify">eslint-config-vuetify</a>
+      </td>
+      <td>
+        <a href="https://www.npmjs.com/package/eslint-config-vuetify">
+          <img src="https://img.shields.io/npm/v/eslint-config-vuetify.svg" alt="Version">
+        </a>
+      </td>
+      <td>
+       An opinionated eslint-config for Vuetify
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cognito.vuetifyjs.com/">vuex-cognito-module</a>
+      </td>
+      <td>
+        <a href="https://www.npmjs.com/package/@vuetify/vuex-cognito-module">
+          <img src="https://img.shields.io/npm/v/@vuetify/vuex-cognito-module.svg" alt="Version">
+        </a>
+      </td>
+      <td>
+       A <a href="https://vuex.vuejs.org/">Vuex</a> module for <a href="https://aws.amazon.com/cognito/">AWS Cognito</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### INSTALACIÓN
+
+Importante: Tener instalado **NodeJS**.
+
+``` bash
+npm i
+# OR
+npm install
+```
+
+#### EJECUTAR
+
+``` bash
+npm run serve
+```
