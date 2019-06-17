@@ -11,9 +11,7 @@
 - carlos@cmceledon.com
 - 3004559711
 . 
-- Prueba técnica de desarrollo para: 
-- NECOMPLUS
-- http://necomplus.com/
+
 ```
 
 ---
